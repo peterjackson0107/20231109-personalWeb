@@ -1,0 +1,228 @@
+body {
+  box-sizing: border-box;
+  background-color: white;
+  margin: 0;
+}
+
+body.dark-mode {
+  background-color: #111;
+  color: #eee;
+}
+body.dark-mode a {
+  color: #111;
+}
+body.dark-mode button {
+  background-color: #eee;
+  color: #111;
+}
+
+body.light-mode {
+  background-color: #eee;
+  color: #111;
+}
+body.light-mode a {
+  color: #111;
+}
+body.light-mode button {
+  background-color: #111;
+  color: #eee;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  background-color: rgba(241, 234, 255, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+header .topbotton {
+  width: 70vw;
+  display: flex;
+  justify-content: space-evenly;
+}
+header ul {
+  margin: 0%;
+  font-family: "Noto Sans TC", sans-serif;
+}
+header li {
+  font-size: 16px;
+  color: rgb(255, 255, 255);
+  list-style: none;
+  float: left;
+  line-height: 100px;
+  font-family: "Noto Sans TC", sans-serif;
+}
+header h3 {
+  font-size: 24pt;
+  color: rgb(0, 0, 0);
+  margin: 0;
+  padding-left: 10px;
+  line-height: 100px;
+  float: left;
+  font-size: time news roman;
+  font-family: "Noto Sans TC", sans-serif;
+}
+header span {
+  color: rgb(91, 28, 104);
+  font-family: "Noto Sans TC", sans-serif;
+}
+header a {
+  color: black;
+  display: block;
+  padding: 0 15px;
+  font-family: "Noto Sans TC", sans-serif;
+}
+header a :hover {
+  opacity: 0.6;
+}
+
+.dropdown {
+  position: relative;
+  padding-top: 30px;
+  width: 100px;
+}
+.dropdown .menu {
+  width: 150px;
+  height: auto;
+  box-sizing: border-box;
+}
+.dropdown .menu .dropdownMenuButton1 {
+  height: 20px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  list-style: none;
+  float: left;
+}
+.dropdown .menu .dropdownMenuButton1 a {
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  list-style: none;
+  float: left;
+  line-height: 10px;
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+.secondArea .carouselPicture img {
+  max-width: 100%;
+  height: 600px;
+}
+.secondArea .middlePicture {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-top: 4%;
+  background-color: rgba(229, 212, 255, 0.1);
+}
+
+.thirdArea .service-wrap {
+  text-align: center;
+}
+.thirdArea .service-wrap h3 {
+  font-size: 40px;
+  padding: 20px 0 10px;
+  margin-top: 1%;
+  font-family: "Noto Sans TC", sans-serif;
+}
+.thirdArea .service-container {
+  display: flex;
+  justify-content: center;
+}
+.thirdArea .serviceBox {
+  width: 30%;
+  padding: 0 15px;
+  background-color: rgb(214, 123, 255);
+  margin-left: 1%;
+}
+.thirdArea .serviceBox img {
+  width: 100%;
+}
+
+.fourthArea .service-wrap {
+  text-align: center;
+}
+.fourthArea .service-wrap h3 {
+  font-size: 40px;
+  padding: 20px 0 10px;
+  margin-top: 1%;
+  font-family: "Noto Sans TC", sans-serif;
+}
+.fourthArea .service-wrap p {
+  padding: 5% 10%;
+  font-family: "Noto Sans TC", sans-serif;
+}
+.fourthArea .serviceBox {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  margin-left: 10%;
+  margin-bottom: 2%;
+  border: 10px solid rgb(220, 191, 255);
+}
+.fourthArea .serviceBox .boxLeft {
+  width: 50%;
+}
+.fourthArea .serviceBox .boxLeft img {
+  width: 60%;
+  padding-top: 5%;
+}
+.fourthArea .serviceBox .boxRight {
+  width: 50%;
+}
+
+.media h3 {
+  font-size: 18pt;
+  margin: 0;
+  text-align: center;
+  padding-top: 50px;
+  font-family: "Noto Sans TC", sans-serif;
+}
+.media span {
+  color: gold;
+}
+.media .icons {
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+}
+.media .icons .fa-youtube {
+  color: rgb(255, 0, 0);
+}
+.media .icons .fa-x-twitter {
+  color: rgb(0, 0, 0);
+}
+.media .icons .fa-facebook {
+  color: rgb(66, 103, 178);
+}
+.media .icons .fa-instagram {
+  color: rgb(193, 53, 132);
+}
+.media .icons a {
+  font-size: 30pt;
+  margin: 0 5%;
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+footer {
+  background-color: rgb(208, 162, 247);
+}
+footer .footerTop {
+  width: 100;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+footer .footBox {
+  width: 20%;
+}
+footer a {
+  display: block;
+  color: rgb(0, 0, 0);
+  font-family: "Noto Sans TC", sans-serif;
+}/*# sourceMappingURL=style_en.css.map */
