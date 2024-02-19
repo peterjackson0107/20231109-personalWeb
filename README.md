@@ -9,15 +9,19 @@ https://peterjackson0107.github.io/20231109-personalWeb/
 - SCSS
 - Bootstrap v5.1.1
 
+## 輔助技術
+- codepen
+- fontawesome
+- colorhunt
+
 ## 功能
 - [x] 翻譯按鈕 (日文、中文、英文、韓文)
 - [x] 黑暗模式 (dark mode)
 
 ## 學習歷程進度
-* 安裝note.js
-* 參考其他網站，做出屬於自己的網頁
+* 能應用 HTML、SCSS、Bootstrap 做出基本網頁架構
 
-## 想法
+## 想法或目標
 * 參考其他網站，做出屬於自己的網頁
 
 ## 參考版面
