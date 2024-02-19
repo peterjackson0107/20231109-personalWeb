@@ -10,34 +10,30 @@ https://peterjackson0107.github.io/20231109-personalWeb/
 - Bootstrap v5.1.1
 
 ## 功能
-
 - [x] 翻譯按鈕 (日文、中文、英文、韓文)
 - [x] 黑暗模式 (dark mode)
 
 ## 學習歷程進度
-
+* 安裝note.js
 * 參考其他網站，做出屬於自己的網頁
 
 ## 想法
-
-* 
+* 參考其他網站，做出屬於自己的網頁
 
 ## 參考版面
-|参考資料|
-|:-------------:|
-|[スシロー](https://www.akindo-sushiro.co.jp/)
-[McDonald’s](https://www.mcdonalds.com/us/en-us.html)  
-[KFC](https://markdownlivepreview.com/)
-[BBQ 치킨](https://bbq.co.kr/)
-[瓦城泰國料理](https://www.thaitown.com.tw/)
-[松屋](https://www.matsuyafoods.co.jp/)
-[牛かつ もと村](https://www.gyukatsu-motomura.com/#info)
+* 參考するウェブ
+  * スシロー
+  * McDonald’s 
+  * KFC
+  * BBQ 치킨
+  * 瓦城泰國料理
+  * 松屋
+  * 牛かつ もと村
 
-|ゲームとキャラ|
-|:-------------:|
-[アズールレーン](https://www.azurlane.jp/)
-[hololive](https://hololive.hololivepro.com/talents/mori-calliope/)
-[プロセカ](https://pjsekai.sega.jp/)
+* ゲームとキャラのウェブ
+  * アズールレーン
+  * hololive
+  * プロセカ
 
 ## 畫面
 * 全部終わった時、めちゃ面白い
